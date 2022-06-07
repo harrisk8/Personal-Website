@@ -11,7 +11,7 @@ function Projects() {
 
 
             <div className='Project-container'>
-            <img className='Project-picture' src='./assets/Banter_logo.png'></img>
+            <img className='Project-picture' src='./assets/Banter_Logo.png'></img>
                 <div className='text-container'>
                     <p className='Project-title'>Banter</p>
                     <p className='Tech-stack'>Swift, JavaScript, Firebase, Xcode, Storyboard/SwiftUI, Adobe XD</p>
