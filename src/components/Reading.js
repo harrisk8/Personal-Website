@@ -14,7 +14,7 @@ function Reading() {
                     <p className='book-title'>Outliers - The Story of Success</p>
                     <p className='book-author'>By: Malcolm Gladwell</p>
                     <p className='book-description'>Gladwell builds within the reader a profound sense of clarity regarding the concept of success. 
-                    He brilliantly distinguishes his understanding of success from conventional, apparently short-sighted definitions. 
+                    He brilliantly distinguishes his understanding of success from the conventional, apparently short-sighted definitions. 
                     Through brilliant stories and examples, Gladwell builds the case that success cannot simply be reduced to a “function of effort.” 
                     Though immense effort is necessary, Gladwell argues success is far more complex, that it results from the culmination of effort, 
                     luck, circumstance, and persistence in ways that aren't always obvious.</p>
