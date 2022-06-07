@@ -1,0 +1,101 @@
+.Projects {    
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: 60%;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: 5vh;
+    text-align: center;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.425);    
+    padding-bottom: 5vh;
+    margin-bottom: 5vh;
+
+}
+
+.Projects-header {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 6vh;
+    padding: 1vh;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    width: auto;
+}
+
+.Project-container {
+    display: flex;
+    overflow: auto;
+    width: auto;
+    background-color: rgba(255, 0, 0, 0);
+    text-align: left;
+}
+
+.text-container {
+    float: left;
+    width: auto;
+    margin-right: 3vh;
+    height: auto;
+    margin-bottom:3vh;
+
+}
+
+.Project-picture {
+    height: 100%;
+    width: 15vh;
+    margin-left: 5vh;
+    float: left;
+    padding-top: 4vh;
+    padding-bottom: 3vh;
+}
+
+.Project-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2.5vh;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+.Tech-stack {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 2.5vh;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+.Project-description {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 2vh;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+.lessons-list {
+    text-align: left;
+    height: auto;
+
+}
+
+.lesson {
+    margin: 0px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 2vh;
+    color: rgb(0, 0, 0);
+}
+
+.Project-in-progress-container {
+    margin-left: 10vh;
+    margin-top: 3vh;
+    width: auto;
+    display: flex;
+    overflow: auto;
+    width: auto;
+    background-color: rgba(255, 0, 0, 0);
+    text-align: left;
+}
