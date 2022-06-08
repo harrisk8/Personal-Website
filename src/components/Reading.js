@@ -30,7 +30,7 @@ function Reading() {
                     informative and inspirational fashion. Isaacson is well-researched in his endeavor, to say the least, 
                     as he dives in great detail into Franklin’s life at each stage. Isaacson brings Franklin to life by 
                     colorfully illustrating the experiences that made him the diplomat, scientist, politician, and most 
-                    importantly, humble printer, Franklin would be remember for. Most significantly, Isaacson conveys 
+                    importantly, humble printer, Franklin would be remembered for. Most significantly, Isaacson conveys 
                     the strong values Franklin led his life by: Franklin epitomizes industriousness, productivity, 
                     practical wisdom, curiosity, and more. Franklin created a mold in which one can follow to be the 
                     “ideal citizen.”</p>
