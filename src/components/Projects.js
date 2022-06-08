@@ -49,7 +49,8 @@ function Projects() {
                     <ul className='lessons-list'>
                         <li className='lesson'>Modular code is important. Especially when designing a frontend with
                         reusable components.</li>        
-
+                        <li className='lesson'>Try not to deviate too much from basic principles of design. The same data can be perceived
+                        very differently based on how it is presented.</li>    
                     </ul>
                 </div>
 
