@@ -56,7 +56,7 @@ function Projects() {
  
                     </ul>
                     <video autoPlay loop muted id='Pathfinder-video'>
-                        <source src='./assets/Pathfinder_video.mp4' type='video/mp4'></source>
+                        <source src='./assets/Pathfinder_Video.mp4' type='video/mp4'></source>
                 </video>
                 </div>
                 
