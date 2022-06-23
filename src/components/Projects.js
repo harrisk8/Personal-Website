@@ -50,7 +50,10 @@ function Projects() {
                     <ul className='lessons-list'>
                         <li className='lesson'>Initially, the grid was represented by a matrix of '0' or '1' to represent the type of node in that position. Inspired by Clement Mihailescu,
                         I realized it made sense to store objects in the matrix which then conferred advantage to managing state.</li>        
-                        <li className='lesson'>Destructuring in JavaScript is surprisingly useful. Helps make code much cleaner. </li>    
+                        <li className='lesson'>Destructuring in JavaScript is surprisingly useful. Helps make code much cleaner. </li>   
+                        <li className='lesson'>Be careful about referencing the same object when your intention is to work with a value instead. This
+                        confusion led to a few frustrating bugs.</li>    
+ 
                     </ul>
                     <video autoPlay loop muted id='Pathfinder-video'>
                         <source src='./assets/Pathfinder_video.mp4' type='video/mp4'></source>
