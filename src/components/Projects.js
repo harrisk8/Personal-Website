@@ -39,10 +39,33 @@ function Projects() {
             </div>
 
             <div className='Project-container'>
+            <img className='Project-picture' src='./assets/maze.png'></img>
+                <div className='text-container'>
+                    <p className='Project-title'>Pathfinder - Dijkstra's Algorithm Visualizer</p>
+                    <p className='Tech-stack'>JavaScript, React.js, HTML, CSS, AWS Amplify</p>
+                    <p className='Project-description'>This project presents the user with a grid and prompts them to select a start node, end node, and set walls. The project
+                    will then illustrate the underlying algorithm as it determines and presents the shortest path between two nodes.</p>
+                    <a id='pathfinder-link' href='https://master.d18thz8cnxal2z.amplifyapp.com/'>Click here to use Pathfinder</a>
+                    <p className='Project-description'><strong>Lessons learned: </strong></p>
+                    <ul className='lessons-list'>
+                        <li className='lesson'>Initially, the grid was represented by a matrix of '0' or '1' to represent the type of node in that position. Inspired by Clement Mihailescu,
+                        I realized it made sense to store objects in the matrix which then conferred advantage to managing state.</li>        
+                        <li className='lesson'>Destructuring in JavaScript is surprisingly useful. Helps make code much cleaner. </li>    
+                    </ul>
+                    <video autoPlay loop muted id='Pathfinder-video'>
+                        <source src='./assets/Pathfinder_video.mp4' type='video/mp4'></source>
+                </video>
+                </div>
+                
+
+            </div>
+            
+
+            <div className='Project-container'>
             <img className='Project-picture' src='./assets/Headshot-circle.png'></img>
                 <div className='text-container'>
                     <p className='Project-title'>Portfolio Website</p>
-                    <p className='Tech-stack'>JavaScript, HTML, CSS, React.js, AWS Amplify</p>
+                    <p className='Tech-stack'>JavaScript, React.js, HTML, CSS, AWS Amplify</p>
                     <p className='Project-description'>The very website you are on right now. A simple page which offers a deeper look into who I am, 
                     what I do, and what I'm interested in.</p>
                     <p className='Project-description'><strong>Lessons learned: </strong></p>
@@ -65,10 +88,7 @@ function Projects() {
                         this project will demonstrate utilization of APIs to fetch market data and manipulate it
                         into visually-appealing graphs. Project will feature authentication and data persistence.
                         </li>    
-                        <li className='lesson'><strong>Dijkstra's algorithm visualizer</strong> - Simple screen with a grid and user will be able 
-                        to select any two points on the grid. The program will then use Dijkstra's algorithm to calculate and present
-                        the shortest path between two points.
-                        </li>      
+ 
                       
                     </ul>
                 </div>
